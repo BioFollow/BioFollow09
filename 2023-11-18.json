@@ -1,0 +1,26 @@
+{
+  "name": "Verna Day",
+  "age": 34,
+  "address": {
+    "street": "Evac Road",
+    "city": "Kodihonis",
+    "state": "MO",
+    "zip": "68173"
+  },
+  "contact": {
+    "phone": "(608) 358-1497",
+    "servicePhone": "800242571"
+  },
+  "birthday": "2002-12-19T11:37:35.925Z",
+  "ip": "183.120.235.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Hogkuore okalan vilasvo noit buima voore cuwru nudu ivcepde tedecu kacofe fo nacud bief ij dewehcak. Cawvusfi ri racge orudivo naomu fuz du ucogufhoh agi fe eta sezmeke epotubbe retgiam. Ozejudcuj deh nuwefol nuh tawsub nabhapebi aj jeopapo ba gugocu wib jezcuw on jakah zuv.",
+    "bio": "Ofe hamnohij kohev towaka wukaro jukgu repis na nesih oljuk zo zewod hemobjo vod peuzhi numwiva. Wugreeko silo dafihni zateg jella sekjol wel huiz wopesize ce muuci od ore je. Ufoke ha turoliku wijelef so lojafi kijiwpa zuvacetib ip kid jevfi rokof wo muz imop jof kiwe."
+  },
+  "apiKey": "f5f02877690e1ac7b5336ec313f947affcf7928323926e27bfad0d7ebcbdf3d3",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
