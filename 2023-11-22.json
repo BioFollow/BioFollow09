@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Thompson",
+  "age": 30,
+  "address": {
+    "street": "Elega Center",
+    "city": "Pabujlev",
+    "state": "NJ",
+    "zip": "40475"
+  },
+  "contact": {
+    "phone": "(811) 976-5757",
+    "servicePhone": "800432417"
+  },
+  "birthday": "1965-12-30T10:53:02.750Z",
+  "ip": "146.163.173.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Cat hud booseru pa bo wifvil nitmubkis zimne wehi napuhce ahaojute hi to. Sesara uniolbud wodnakpe icceve pojofag guepo pi kohgonce miumgod bun ijocov gusvim lu juurih za adnup. Tu si zigi ka deg zefwubu cowoji mobuco sube hedir tonjodno hu mebnijhe. Kervut jun bule carji bu daur tiurzer cuuho tusaw mit dasefe osobiptac jis vurgec kutjud rikaharo.",
+    "bio": "Kitulnef guhomos for uliecwav sifwuive tado et zudbabriz sufifja opekezam femul mu wicinig biow bin meabsav gutlem bouti. Te neeno gidigise jatpoik iw batagi dahmo dib ri refamcek duteva ha fubobti il jad duod lehe. En ad cingupok bo kiplepad velsepno hesuhi er ogappo sahaew digdija ahehezoku."
+  },
+  "apiKey": "b3a4f271f4373a8ceef74c18209306230749efcd51aee6c05be7a6f980b237eb",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
