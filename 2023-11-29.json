@@ -1,0 +1,26 @@
+{
+  "name": "Mark Erickson",
+  "age": 55,
+  "address": {
+    "street": "Tamat Turnpike",
+    "city": "Diipipi",
+    "state": "NM",
+    "zip": "58239"
+  },
+  "contact": {
+    "phone": "(423) 991-4543",
+    "servicePhone": "800643786"
+  },
+  "birthday": "1991-12-06T17:48:20.029Z",
+  "ip": "99.136.57.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Midrolel la lazono ko tudliw ej uvje besis haravoni uriki ohubic mic vehgifub ofe. Rihom ki jimro dikzeuh ebofo lebilid oku zuzat hof rad banive ba racohne. Bumeb igro ni paw wensoatu tekgow cadi haj ziwazat zupge ewpomre nibujaw penbu tagbes zocejip zow kanjekal. Bivkazna puki epocukas bujujes nismen etpizu bo satoive juw dijfamu wor va um tebroki sihan gofiwuca nebcer fedu. Fef jam dalzi mibu filsoet tejfo ibakakaw lif nunodu zovjatfa mite utu bero oz wefedib lamale olouzosi dehis.",
+    "bio": "Tep hajko wu zute rutnicrop asoso zokvoabe utuku abikekew saznen afaraniru fov gempehuhi ginagro de zafewku. Ireic zojagun bibjaez zumsuj lake on mob bineru cucvori boozeni siemgig barmumi kov vuvhup panlur sibuf rakkad lod. Liimiral gooffo wifemij petuje libori apah macoktac poc wugfo vod lit pogvoduzu zirotca da kuskac. Cazecel gawil ris jewuhluf kusejoodu dejakegus ze wo cazo fizvaw get ram ucne luroro tadfubsa worpetoz deultu. Vabapo vejeluf fami soma am vagubu net ewodode awi eca gizhe kaczabaf ja cew fa kam. Ci wemwic naz jugnulaw uhusidtob cedibkos he inbo linuv ri jibfipen co pevud. Ces fu mophuv erulo sahos von ojikuusi bev ge piilu umulaam segma."
+  },
+  "apiKey": "9a04f4ba16bb3e35dcc9d7e337f637724a0e0c1e75771286a0198f14ea105572",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
