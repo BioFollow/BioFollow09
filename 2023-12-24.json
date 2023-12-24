@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Nunez",
+  "age": 22,
+  "address": {
+    "street": "Mujoj Manor",
+    "city": "Juguce",
+    "state": "AL",
+    "zip": "13933"
+  },
+  "contact": {
+    "phone": "(603) 706-2096",
+    "servicePhone": "800329472"
+  },
+  "birthday": "1988-08-01T09:51:30.494Z",
+  "ip": "247.244.108.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Hifihu wej ke lurig hi fi degjakne ifopapul kewcufzef curceok faighu muj. Upafu dana sezed wiza ifoko ek dohicec tejaoku pilbo vivede wunsego unajag cazrug. Waz ehe osu pab pe zu ub va asa orasarad ewugi vudrub wer na nicadigu ubaswum zabcah zejil. El ruhizki ficma do fo ro jar ok inekurtu neeg rulgudaw epanomzaz.",
+    "bio": "Repesre tahdusek jenan ro sos luwobdub turfa vo kaevpif angikhur idowun taz dellecab hodin odaluhrov zenrap jobtuwi. Hap fi vicsolzu fisud dig jucab silvatem cacoguhep liguz ge faedehac geg ziat obmiak. Urfeena get vasalo zomvu dahuh dem re bifudot ve ponid fuar zi li cegez pusip."
+  },
+  "apiKey": "40d09f3e46d322942101cacf8f744edaca37eb98f01ab9dace947f173a58f17a",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
