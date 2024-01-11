@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Duncan",
+  "age": 26,
+  "address": {
+    "street": "Safe Heights",
+    "city": "Katumawa",
+    "state": "CA",
+    "zip": "54797"
+  },
+  "contact": {
+    "phone": "(850) 540-6715",
+    "servicePhone": "800223865"
+  },
+  "birthday": "2003-03-02T16:37:10.064Z",
+  "ip": "204.65.236.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Udzop hij azu ehjeeba titva isejetdo tizleba ila obfulis hof ob cotipa ha socop ake misbifur zicapi. Ujosdoz cukaez wizwiskat uzpot hoklu eja ti cocetuho lib hedcis cuufe zokhisdev nilegomab efogu ebi viura sa so. Ekona ge mivtikec es mih suwpucul weusocis fefbuzhur dijfe hedebiabi torubo nu. Rumaphe ug perkef halun jekkes bowrokkir pogset bednow pajohjal zigog lu wosgutpu jilo jim fuchu. Mahle hozo fawe ji rub cofahma nahaviv iwas mucmu iphaile ikni mis gawofmen huhih tavekisib. Icihu cazbe uwjul rovowa toh gu seivi kojow jetgutu lor noppel zo ri acbo.",
+    "bio": "Sewwudir bad ku noah azoseaw es vu woigoaku dezeupa mibildu pebbimrak te hotsa. Gooh fiweh ric conha ikamiuk gawilvi lejtupu voj pisori ezziraw ric lusrop jilune vamruet jefgop mopi. Nol mosca so nudet fiseb soweat ohlep ewuwvav ceriw izsejo lu wurcuvbu fiva jerviej egotro uvmazu woztagfu op."
+  },
+  "apiKey": "c5b300158eda5f233267c5d0e4e63269fa41d16e832b7c1dfe8972f8a0fd96be",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
