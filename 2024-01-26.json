@@ -1,0 +1,26 @@
+{
+  "name": "Paul Steele",
+  "age": 21,
+  "address": {
+    "street": "Rizga Highway",
+    "city": "Nimpuhi",
+    "state": "VT",
+    "zip": "58911"
+  },
+  "contact": {
+    "phone": "(813) 664-1921",
+    "servicePhone": "800314718"
+  },
+  "birthday": "1977-08-24T14:18:07.036Z",
+  "ip": "207.232.13.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Tubzaob op banep imi tajzehi luwoj cemdofek gi pawoko jeocido awuruj ka veluzi. Lislukud era ak cucugcoz suhpujli ezton vusdi ne buhnovgos sileh riolo ni gaoze sinu atguzij otazole neejehed fiojoira. Bu sifibij uhi za no buhuccu maj rubessef fot ludsa af lujavahe si dik lemfa gualeir. Sub tuziz romo ucamahlif mo heze cifasbal gantupsa bav ze pamecda ok bulihfar jeklof.",
+    "bio": "Uw sit ij lebu duvew be pepujoab olakub wahu rafupan bifuk kol gine avuto jawvapuku lu meha. Adi femsu ci otedutpas cauf diwcir tawen zeptaho ejihevli enevat ado ahoojo ke vup bimgit zupwot. Mulwegder su wo ha eblogpet vehnor ome wi ledoj igucinzi oruumesan jeiw sehufo uj puip setinehik. Pepuj ijunta etivebloh us ocgata ve tagba miokpo pazhof reozsa muwipuehe alaiza. We maufoak sega barevo made wu hibazohi fuubojo jotvezi megopa uni gud mapfejlu ho."
+  },
+  "apiKey": "84bf27d3e4147c0d619bd619312e0c464db7d1ebe6f2c58086fa3ecd601a8837",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
