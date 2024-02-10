@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Ramsey",
+  "age": 30,
+  "address": {
+    "street": "Cuzud Highway",
+    "city": "Uwoleno",
+    "state": "WI",
+    "zip": "04492"
+  },
+  "contact": {
+    "phone": "(614) 397-1061",
+    "servicePhone": "800724296"
+  },
+  "birthday": "1978-02-08T07:26:02.910Z",
+  "ip": "171.134.136.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko dob cetur pa ofi jurpigem nukmus likol zozomdu daju roucuvuh da joj umegen rihlo fohesowo wabopzuc nipobu. Fes sovduzi nenok etab ran memhe nup ozeva vedwuzu widusago tuvhilvo lu nojbe barauka satizco cesuhies vemirebo ucesuf. Souhiw kunuk ec er uceterco pel wazvu sib avori sol vuwunzek so ziropis gigam irutju pulecva. Diraib zoimfin di wo saz eremajzas coviva kezuj us kuez ho niiwedi ul dolu.",
+    "bio": "Pefeko ja risaro ki seclovoh luudolo mugve cezno ween apkeh mati zepugum su ive gatnav do la. Atehi bubturov rewgoni tesew wek van ujeze alnajhi ivzaro oj oflocu undene sukkitok fa bolejcos hen wopugi. Moz evkazeti uklagu semhiptik du tahfu zu hepwabkag nedre estet bompiw sase ku."
+  },
+  "apiKey": "169ae18b179e306c2af8e6ba16a858aa83d23dfd14ed0c4485cb9c140b19c13a",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
