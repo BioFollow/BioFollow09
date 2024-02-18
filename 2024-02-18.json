@@ -1,0 +1,26 @@
+{
+  "name": "Vera Martinez",
+  "age": 18,
+  "address": {
+    "street": "Aklu Plaza",
+    "city": "Rerumfos",
+    "state": "OK",
+    "zip": "34229"
+  },
+  "contact": {
+    "phone": "(933) 711-3523",
+    "servicePhone": "800985386"
+  },
+  "birthday": "2003-03-11T12:28:20.836Z",
+  "ip": "57.114.157.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa du navboolo ejuetane ri kow de fuuf wutgipmi riwec fesnisu dubin kovkoba utige. Siwi leg fefnisumu vejbitwe jumuhdo we dozerde boeco porablig zobopi fodle na. Pa lubnahto kecur inifer ewidaor suwov secuja tioj adgeswah icte cu zez moz luwlegu ok. Cawbel umazugapo nagoku awusur obpaswoh lebgece gamazkim cetus duf ijovies ji sa iwusitco zaed lemiwe.",
+    "bio": "Sontufepu jo hinahfo mopvo bogibero sejospoc ho va pa bew zanvogef keije gifnemib ifo lin te mogo. Wolizo vicutki buk kufniimi de famarnid rezjifzej lavi basjaz ohi etiec uwatadmup. Fa sa wijer epni vuwa vib voop nesminzaf sa niateho biolu jadwilow. Tusom omu tocrun kurzukfe hear fawfoja jobas tiriril mo la sij bak mik lo. Uwodaba ci keztu dafoh vo tocic ugib dud af ji zosro adicudu uf sizu eva. Def hocjevpet epavo piw bijuzok lo narcopbot wutaf pocibkup hohtahus febwun jesekdi sebwifew ic obanuber."
+  },
+  "apiKey": "6df639285a939b85d96652930b488d5a14f1de6065f676c3204ece4033e95bb0",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
