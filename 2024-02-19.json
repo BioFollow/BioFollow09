@@ -1,0 +1,26 @@
+{
+  "name": "Ola Rios",
+  "age": 39,
+  "address": {
+    "street": "Kaara Terrace",
+    "city": "Uwbotub",
+    "state": "MA",
+    "zip": "19920"
+  },
+  "contact": {
+    "phone": "(467) 865-9321",
+    "servicePhone": "800661998"
+  },
+  "birthday": "1994-06-05T15:59:27.851Z",
+  "ip": "213.129.46.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekme ledesa enpufe rikaf upu zofpuova ebevek racno no basi odte eva fighuhe pezli bu juwev. Vile jatkon gub rak olmufuv citbec poz ru ba tejroduz he was ajkagtec asi ib go wi. Hofid ruj murec nubku wuputa dob valuhdeg hifvas howegku furrepec are ugwo lin vapji kevawor bosadse.",
+    "bio": "Oro adod ni lavfet lalpojsa gapirov ri kugu eme valrodega dejug cuslagte. Wocuas amivelmo deldufbaf ugedor zoj poohiina ve gorco nusbipac redcucem jo veweela vafa eguvize git visot bog lehaaf. Cogbop hafeb iwlev rud wimbu ben kew tauv mimhole had pidlemke lal od lul haas tim gu."
+  },
+  "apiKey": "1dbe85e1b4b0a81c002c09e541c089e3d93f976c2212012929cf6a6b63bc8fd1",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
