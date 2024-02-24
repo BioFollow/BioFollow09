@@ -1,0 +1,26 @@
+{
+  "name": "James Abbott",
+  "age": 37,
+  "address": {
+    "street": "Pazo Parkway",
+    "city": "Zelowkav",
+    "state": "MO",
+    "zip": "69149"
+  },
+  "contact": {
+    "phone": "(332) 907-3972",
+    "servicePhone": "800637633"
+  },
+  "birthday": "1973-02-10T02:12:52.776Z",
+  "ip": "141.36.220.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Kefenewe nok usohigo misan agecu or fusu wonabkep diz apfomen bicemob eghemav. Wacgu codguksaf cotit pino pehaheh ovap rihti lib sucuuha canoj vugo owbevos va buvbepon mal hagpod. Hi ihomouli niita juf tukuzni heose atzuz ik hocucih pivi laz gacez jiape huwu jehbaci. Vogodsoc todomo gizupos jab vug mawreko zozmezlat lehnopij getuc decmu pufnicib pivonu.",
+    "bio": "Jik uldu fihhud re dajud cir kuguc da woppo nu jowab reih diwowu. Aktorpag mej tuovaca ibijeaca mizcumu nubhibkej lusew ju me od cuwgos boco da biromaoc buc usit. Riorulig enkoz vibep okop edu men vo tec felba sihmugi pufer cafom fa."
+  },
+  "apiKey": "3cd5a4bba885cb6e0bbee70502346e8b646f2ec5a86dcb14f6b8ba5e5c687563",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
