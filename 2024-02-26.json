@@ -1,0 +1,26 @@
+{
+  "name": "Mamie George",
+  "age": 20,
+  "address": {
+    "street": "Pozog Heights",
+    "city": "Vetuve",
+    "state": "FL",
+    "zip": "88484"
+  },
+  "contact": {
+    "phone": "(944) 568-8239",
+    "servicePhone": "800494616"
+  },
+  "birthday": "1976-09-14T11:29:07.506Z",
+  "ip": "204.114.18.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Ra koc rut ruufu iwfa fah zabek gef behuvvo bavunza liwuwuv bal lub kasi waeba wi. Duvi lifgugbon ikeeno refsa re poor fis ve neh bi tu bi romion miaduhu. Mob sodika teuna urzamil pow duwikidi iz vo rad igkerro seoj mumruwhis zolhe gormo beaf. Razoli dafbomfoj pegav imtidmi bol waci posarow ambepbup wiodoka soghi givetere ihabipudi emvow sawhuh ukleh teosur.",
+    "bio": "Azi rozdo otutuvti fosnet nazru ja nuogu oc wibec idnutuj reufezu suil. Sovro josden mat tuk tihbuswis cu ome maw ebabumag vilelgu lesoduz ivpo lo horilmu lofal nujuvti. Hez mahi siuna uwoorged vuhzec oz hu didhog wocoj votsof mohuzo asabumiru gevedob ko foj. Liuko tonuana puk ragewkam jogcowir hiwpecrod wohcuned to rid ramgilef so voj monukmir kaloh. Bifze oz mejteb raf oj ri ubzidzi bec nu papgalo alari ifdu cid weloma tikaz. Zevfu uzsujlec mu li icbofwig oh ej tato facvav nimna muzvenad ipmupep pu."
+  },
+  "apiKey": "b243b9d29a82355551b91fc6c0bc5f714b14f898687ff123147892dbcf6b339e",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
