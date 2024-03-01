@@ -1,0 +1,26 @@
+{
+  "name": "Stanley Collier",
+  "age": 20,
+  "address": {
+    "street": "Ajatom Place",
+    "city": "Toajodin",
+    "state": "WI",
+    "zip": "03423"
+  },
+  "contact": {
+    "phone": "(439) 489-1425",
+    "servicePhone": "800648314"
+  },
+  "birthday": "1960-11-17T17:23:37.129Z",
+  "ip": "26.51.223.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugbarde sud ugnuco kimolral facipuh so gur joda corufoco levi ku uboiru uve umep di butler. Livu sazavtur mokvos jufotdo fodvomve makaka toto ovogaglu nujeka itmoci cal tenid wi maapo egizeic fuuhekuw sawauj gedduew. Or noken mew guda rowekat hi ne zulowuli ebikotko den sa pilezaus jemwom roinama.",
+    "bio": "Heestu ro fu nero si foso pusehku vot kap siju sesbavek ogdezsot gav powagnos gapdabje ruv daon. Bud bojwuze etgit enemecu tacela tirrij roga cehsiv ket mu mukho fuj cindi ap ajo. Awupoc ukouna barar aw paheziz ru olimemfi lepoj cicin ahirad tuzupgu halli wijza omuvaf looj jonoazo met hopdacrew. Otanevwih tasic azoju nug lichor senwu wagu fevah gumjejjic wevu uc ru akzujvu loror bipava. Anrig soh te ewik ofaewloj wejle cide tej itelervul utsudid tim nam. Zoekamo puulge me rachuwsac wiazuvo ugiwaive dahnuj vehaez sug defot momin esmudpi ci regek cumez dubokho tib. Bev cet ajkohe wa kuag udodogas diesi seko ko dajavhut zeakeufo fi itefupke coj ada."
+  },
+  "apiKey": "3c78c517250454706a282608c3bd954f16dfffff12b149f94d9177f87f06c441",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
