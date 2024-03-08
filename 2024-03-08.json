@@ -1,0 +1,26 @@
+{
+  "name": "Juan Martin",
+  "age": 42,
+  "address": {
+    "street": "Riwgun Pass",
+    "city": "Imwinsa",
+    "state": "AL",
+    "zip": "92417"
+  },
+  "contact": {
+    "phone": "(580) 493-7871",
+    "servicePhone": "800438332"
+  },
+  "birthday": "1980-08-10T17:03:11.146Z",
+  "ip": "22.165.218.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Jurozce wo oveja moar jehpibaf zudunete nibfo gihes ju wen nocedci wob ja am. Upariv pujhis noncuhip zi naarde jean sawid elri ju jomha otowumali winnozi zuf fosec suakfak. Acmu su uhobawad kemroizu ude hotdepit egocahar lowikpeh tuzta te ut ezuapa za fevifi vo ogave eja mib. Wogtuf solizde lo uvuhite weosa gunut atiire faububi dahabaf vos ok pok. Cana sewma wecmivrel us bewavewov webubta ug kacpeh baftek loj anosad ewpu juk. Nabof ep wu pir wiw irajanaf gebgok jonilu adeoke cem hosumo zisev lezfoloc ukizi vuapaolo os purkohput ipzi.",
+    "bio": "Vam bothufa uwe cehodune zuhnem parutu hacjuwu ebaomapat ce si kiot wusad nezrara jo vos. Wim nu gegupo co epefac zoru ac zabbeva ef rapco du hog. Kapa gavip cigawa pof dujhu tec odilo raspirlum tutvaodi opa hola nomdak ulvumru idpib. Te vi noj juzhavpu be ceh motha iriwa fenherce owimiwvic reguf temabu gibnicu ugi ifuduppih pecun bejoazu mez."
+  },
+  "apiKey": "816b42cf83bb65d5ecf3bfd70af7bc37c2ef9ff9393f3162212289a226ed55d3",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
