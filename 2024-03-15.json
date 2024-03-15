@@ -1,0 +1,26 @@
+{
+  "name": "Seth Dennis",
+  "age": 44,
+  "address": {
+    "street": "Otki Circle",
+    "city": "Laktuvzog",
+    "state": "NM",
+    "zip": "47166"
+  },
+  "contact": {
+    "phone": "(573) 700-5658",
+    "servicePhone": "800518727"
+  },
+  "birthday": "1976-12-15T12:52:27.074Z",
+  "ip": "108.63.207.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Ram riho par resjul fugju hiom lin abujiri buc ewoaghiv ve ol fabevfu pu. Pac kidoblig duhbo luroh rilnafror kuudu ehociwe edguh agip terjup foaj uzoakiv domusope ifhib at sosa adakif. Bijecre vefno fehah mibebi hud soj pikowzuk soufa gecfedzo fo nalda juudebo.",
+    "bio": "Kawela toome ric aja milpofras walzed gonwul dik osamakmu vogecu jonpu igfov gez suvwa oweob pofofa kugug ik. Umokfu oveajoruv ipob neso wiviuro onhin gabbemuf keful nudeg zin lulas ewo. Orbisese neewehi lar tufwiccar ga osu ow laliw iv tewdembu wewu zoswaipi egeto lacikefo le umarow."
+  },
+  "apiKey": "6dae703c266f3ce6efddef88ac9158d08034745dc793496b87adcb74bb14d293",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
