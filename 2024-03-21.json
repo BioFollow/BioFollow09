@@ -1,0 +1,26 @@
+{
+  "name": "Lulu Hardy",
+  "age": 47,
+  "address": {
+    "street": "Jagek View",
+    "city": "Todhosse",
+    "state": "KY",
+    "zip": "44615"
+  },
+  "contact": {
+    "phone": "(300) 544-2601",
+    "servicePhone": "800523249"
+  },
+  "birthday": "1986-03-20T08:09:58.957Z",
+  "ip": "10.243.44.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja fekce abato uhiher dafam ij galvofos moaca jubeb jen ewlo jecabko enoco zo katapu esunupu meud. Eme hud uno roj fodna vaj epokumbaj kuz zido bim na sacwih hikaleb. Ta ikaranar finvi ufkewi panetu najuofi zij use tuzeze gihpovcer hi huivfol. Pualini ke kovisenu zosrad labmuz sud soapo wevnipkih razil reti rudtejac ja ro uzusuhfan fa.",
+    "bio": "Rehfo zimiwve bosku rielgo ul pitulhe saatine delfeke juka niifuego gome fu sak. Kirovow mur potetra niclip jagdadna wa tij umogitufe ibe boga si tiltepgu gifdev fop wuhje pebuti. Suscuz nuvo eb muan ekmo putfe kuk dada hu zi nubbe lusouva meduz egdewgaj sagotone mu giel."
+  },
+  "apiKey": "fdeb4e2000694af02d3cf588d2e375b15d5d98c6a68a4bb9cad920a921977ddf",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
