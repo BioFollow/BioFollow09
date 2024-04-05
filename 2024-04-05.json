@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Fowler",
+  "age": 27,
+  "address": {
+    "street": "Bezva Manor",
+    "city": "Bajwakwa",
+    "state": "VT",
+    "zip": "62163"
+  },
+  "contact": {
+    "phone": "(437) 303-9092",
+    "servicePhone": "800225351"
+  },
+  "birthday": "1967-02-28T18:13:55.572Z",
+  "ip": "68.199.209.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Selafuj tifirpat vas oknizjec kovzaz jum faf teidu win ofipat gofuc leriba nuznup lu. Cagwepcek iwjajjij puk ac rov nadpa ne apalufo hi awfosu inurnu wema tubdo eb citefkir vi me. Gadci la kivepohe uloirmi balawi rup ah dap lewutuc tivbazeko ilikowij fic okvokwed ticto kikadu.",
+    "bio": "Nowecaje kegmiwa cigob amuuj fecam giekfo buw kulru metput hulowij vepopha gefe. Og ik esvi cowid hi vaspin muvne zaz sikpef kukzi obacite di buacaz igesabefa koga sowji apfiju geroca. Woule bej ki nifji por ne kos huwef hu no obfin voava zawa rih vuacdi gudimumo sulweib."
+  },
+  "apiKey": "db8b327b75697af542a2ea0e7d3e53169ea4aa792fb7d3508e5e4b1f9ed4748d",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
